@@ -1,0 +1,11 @@
+To find out where the comprehensive list for Inline and Block Elements is taught in this lecture, let's check the given video chunks.
+
+It seems like there are two different videos with the title "Inline & Block Elements in HTML", one after the other. 
+
+First, it appears that some content related to inline and block elements is discussed from 71 seconds to 74 seconds (video 8) and again from 192 seconds to 194 seconds (same video 8). However, this seems incomplete as it mentions "the block element" and then quickly moves on without further explaining what the block element actually is.
+
+Later in another video titled "Inline & Block Elements in HTML", starting at 1332.64 seconds, there's a mention of writing inline and block elements but doesn't seem to delve deep into comprehensive lists yet.
+
+For more detailed information about Comprehensive list for Inline and Block Elements, I'd recommend checking out video 8 again, especially from the 382 seconds mark onwards when they start listing different types of block elements. 
+
+Please try that video out as it might contain the comprehensive list you're looking for regarding inline and block elements in your Sigma Web Development course.
